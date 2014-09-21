@@ -1,4 +1,4 @@
-# MongoDB Query Builder
+# MongoDB Query Builder [![Circle CI](https://circleci.com/gh/fujimura/mongodb-query-builder/tree/master.png?style=badge)](https://circleci.com/gh/fujimura/mongodb-query-builder/tree/master)
 
 TODO: Write description here
 
